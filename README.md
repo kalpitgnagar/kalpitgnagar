@@ -7,7 +7,7 @@
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif">
 
-- 📫 How to reach me **kalpitgnagar@gmail.com**
+- 📫 Mail - **kalpitgnagar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
