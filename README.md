@@ -3,6 +3,7 @@
 
 <h1 align="center">Hey 👋, I'm Kalpit Nagar</h1>
 <h3 align="center">Pre-Final Year Student at Maulana Azad National Institute of Technology, Bhopal</h3>
+<h4 align="center">Pursuing Computer Science and Engineering</h2>
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif">
 
